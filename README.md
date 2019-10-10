@@ -1,5 +1,4 @@
 # Ikatu-theme
-_____
 * Descrição: Tema baseado em Yaru Grey Theme na cor cinza com borda e botões de janelas Arc.
 _____
 * Instalando: Ao baixar o arquivo .zip, extrair a pasta ikatu-theme-master para sua /home. Dentro dessa pasta tem o arquivo Ikatu.zip, extrair a pasta Ikatu para /home/.themes. Se não houver a pasta .themes, é preciso criar uma.
