@@ -1,1 +1,1 @@
-# ikatu-theme
+# Ikatu-theme
