@@ -1,8 +1,6 @@
 # Ikatu-theme
 _____
-# Descrição
-_____
-Tema baseado em Yaru Grey Theme na cor cinza com borda e botões de janelas Arc.
+* Descrição: Tema baseado em Yaru Grey Theme na cor cinza com borda e botões de janelas Arc.
 _____
 * Instalando: Ao baixar o arquivo .zip, extrair a pasta qynta-theme-master para sua /home. Dentro dessa pasta tem o arquivo Qynta.zip, extrair a pasta Qynta para /home/.themes. Se não houver a pasta .themes, é preciso criar uma.
 _____
